@@ -1,0 +1,22 @@
+C:\Users\Admin\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.0\ConsoleApp8.exe
+C:\Users\Admin\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.0\ConsoleApp8.deps.json
+C:\Users\Admin\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.0\ConsoleApp8.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.0\ConsoleApp8.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.0\ConsoleApp8.dll
+C:\Users\Admin\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.0\ConsoleApp8.pdb
+C:\Users\Admin\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.0\ConsoleApp8.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.0\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.0\ConsoleApp8.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.0\ConsoleApp8.dll
+C:\Users\Admin\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.0\ConsoleApp8.pdb
+C:\Users\Admin\Desktop\Университет\2 курс\3 семестр\МЛиТА\Лаба 1\1\ConsoleApp8\bin\Debug\netcoreapp3.0\ConsoleApp8.exe
+C:\Users\Admin\Desktop\Университет\2 курс\3 семестр\МЛиТА\Лаба 1\1\ConsoleApp8\bin\Debug\netcoreapp3.0\ConsoleApp8.deps.json
+C:\Users\Admin\Desktop\Университет\2 курс\3 семестр\МЛиТА\Лаба 1\1\ConsoleApp8\bin\Debug\netcoreapp3.0\ConsoleApp8.runtimeconfig.json
+C:\Users\Admin\Desktop\Университет\2 курс\3 семестр\МЛиТА\Лаба 1\1\ConsoleApp8\bin\Debug\netcoreapp3.0\ConsoleApp8.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Университет\2 курс\3 семестр\МЛиТА\Лаба 1\1\ConsoleApp8\bin\Debug\netcoreapp3.0\ConsoleApp8.dll
+C:\Users\Admin\Desktop\Университет\2 курс\3 семестр\МЛиТА\Лаба 1\1\ConsoleApp8\bin\Debug\netcoreapp3.0\ConsoleApp8.pdb
+C:\Users\Admin\Desktop\Университет\2 курс\3 семестр\МЛиТА\Лаба 1\1\ConsoleApp8\obj\Debug\netcoreapp3.0\ConsoleApp8.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Университет\2 курс\3 семестр\МЛиТА\Лаба 1\1\ConsoleApp8\obj\Debug\netcoreapp3.0\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Университет\2 курс\3 семестр\МЛиТА\Лаба 1\1\ConsoleApp8\obj\Debug\netcoreapp3.0\ConsoleApp8.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Университет\2 курс\3 семестр\МЛиТА\Лаба 1\1\ConsoleApp8\obj\Debug\netcoreapp3.0\ConsoleApp8.dll
+C:\Users\Admin\Desktop\Университет\2 курс\3 семестр\МЛиТА\Лаба 1\1\ConsoleApp8\obj\Debug\netcoreapp3.0\ConsoleApp8.pdb
