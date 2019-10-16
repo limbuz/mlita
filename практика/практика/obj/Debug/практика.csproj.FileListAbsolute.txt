@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\практика\практика\obj\Debug\практика.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\практика\практика\obj\Debug\практика.Form1.resources
+C:\Users\Admin\source\repos\практика\практика\obj\Debug\практика.Properties.Resources.resources
+C:\Users\Admin\source\repos\практика\практика\obj\Debug\практика.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\практика\практика\bin\Debug\практика.exe.config
+C:\Users\Admin\source\repos\практика\практика\bin\Debug\практика.exe
+C:\Users\Admin\source\repos\практика\практика\bin\Debug\практика.pdb
+C:\Users\Admin\source\repos\практика\практика\obj\Debug\практика.exe
+C:\Users\Admin\source\repos\практика\практика\obj\Debug\практика.pdb
